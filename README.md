@@ -23,7 +23,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-  "multiclaudecode.nvim",
+  "qtnx/multiclaudecode.nvim",
   dependencies = {
     "nvim-telescope/telescope.nvim",  -- Optional but recommended
   },
